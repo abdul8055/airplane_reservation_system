@@ -1,4 +1,4 @@
-nfrom AirplaneReservationSystem import *
+from AirplaneReservationSystem import *
 import time
 
 # --------- DISPLAYING WELCOME ----------
